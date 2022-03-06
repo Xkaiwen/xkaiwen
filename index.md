@@ -1,16 +1,21 @@
 <html lang="en-US">
     <head>
         <meta charset="utf-8">
-        <title> CSC196W Week3 Website</title>
+        <title> CSC196W Website</title>
     </head>
     <body>
-        <h1>Welcome to kaiwen.github.io</h1>
-        <p>This is the third week of this semester, and I am so happy that we can go back to campus after two years online classes.<p>
-        <p>And recently, I am fall in love with some k-dramas. They are so interesting! And I highly recommand people who love zombie dramas to watch 
-          'All of Us Are Dead', this drama is really interesting!</p>
-        <p>Besides, I am watching the 2022 winter olympics, the mascot of the 2022 winter olympics is so cute!!! And it's name is Bing Dwen Dwen, it is a super cute panda: )</p>
-      <p>I love to listen to this <a href="https://www.youtube.com/watch?v=VbIf3z2SqHg">song</a> recently. 
-        <p>Karen Xue CSC196W</p> 
-        <img src="https://img.olympicchannel.com/images/image/private/t_16-9_1240-700/f_auto/v1538355600/primary/xwyu2lw2warplax703ao">
+        <img src="https://media.newyorker.com/photos/590967bf019dfc3494ea0e9d/16:9/w_1280,c_limit/Reiss-A-Few-Thoughts-From-Monet-on-Those-Stacks-Of-Wheat.jpg">
+        <h1>Welcome to kaiwen.github.io!</h1>
+        <p>My name is Karen Xue and this is a website that I designed for CSC 196W class.<p>
+        <h2>Assignments</h2>
+        <ul>
+            <li>
+                ::marker
+                <a herf="fancifymytext.html">Assignment 4</a>
+            </li>
+        </ul>
+        <p>
+            The picture showed above is one of my favorite paintings drawn by <strong>Claude Monet</strong>.
+        </p>
     </body>
 </html>
