@@ -11,6 +11,8 @@
         <h2>Assignments</h2>
         <p>
             <a herf="fancifymytext.html">Assignment 4</a>
+        </p>
+        <p>
             The picture showed above is one of my favorite paintings drawn by <strong>Claude Monet</strong>.
         </p>
     </body>
