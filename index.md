@@ -10,7 +10,6 @@
         <h2>Assignments</h2>
         <ul>
             <li>
-                ::marker
                 <a herf="fancifymytext.html">Assignment 4</a>
             </li>
         </ul>
