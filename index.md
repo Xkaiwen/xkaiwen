@@ -15,6 +15,4 @@
         <p>
                 <a href="https://xkaiwen.github.io/xkaiwen/fancifymytext.html">Assignment 4</a>
         </p>
-        <p>
-            Test1
-            </p>
+        
