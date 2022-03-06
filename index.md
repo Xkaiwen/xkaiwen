@@ -11,7 +11,7 @@
         <h2>Assignments</h2>
         <ul>
             <li>
-                <a herf="https://github.com/Xkaiwen/xkaiwen/blob/main/fancifymytext.html">Assignment 4</a>
+                <a herf="https://xkaiwen.github.io/fancifymytext.html">Assignment 4</a>
             </li>
         </ul>
         <p>
