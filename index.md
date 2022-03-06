@@ -9,10 +9,11 @@
         <h1>Welcome to kaiwen.github.io!</h1>
         <p>My name is Karen Xue and this is a website that I designed for CSC 196W class.</p>
         <h2>Assignments</h2>
-        <p>
-            <a herf="https://github.com/Xkaiwen/xkaiwen/blob/main/fancifymytext.html">Assignment 4</a>
-        </p>
+        <ul>
+            <li>
+                <a herf="https://github.com/Xkaiwen/xkaiwen/blob/main/fancifymytext.html">Assignment 4</a>
+            </li>
+        </ul>
         <p>
             The picture showed above is one of my favorite paintings drawn by <strong>Claude Monet</strong>.
         </p>
-This site is built with [html](https://github.com/Xkaiwen/xkaiwen/blob/main/fancifymytext.html).
