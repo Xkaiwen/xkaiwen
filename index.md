@@ -10,7 +10,7 @@
         <p>My name is Karen Xue and this is a website that I designed for CSC 196W class.<p>
         <h2>Assignments</h2>
         <p>
-            <a herf="xkaiwen/fancifymytext.html">Assignment 4</a>
+            <a herf="https://github.com/Xkaiwen/xkaiwen/blob/main/fancifymytext.html">Assignment 4</a>
         </p>
         <p>
             The picture showed above is one of my favorite paintings drawn by <strong>Claude Monet</strong>.
