@@ -11,15 +11,15 @@ console.log("Window loaded!");
 
   function init() {
     let encryptItButton = document.getElementById("encrypt-it");
-    encryptItButton.addEventListener("click", handleEncryptClick);
+    encryptItButton.addEventListener("click", handleEncrypt);
     let resetButton = document.getElementById("reset");
     resetButton.addEventListener("click", handleReset);
     let pt12 = document.getElementById("font12");
-    pt12.addEventListener("click", fontSize12);
+    pt12.addEventListener("click", font12pt);
     let pt24 = document.getElementById("font24");
-    pt24.addEventListener("click", fontSize24);
+    pt24.addEventListener("click", font24pt);
     let caps = document.getElementById("all-caps");
-    caps.addEventListener("click", allCaps)
+    caps.addEventListener("click", capital)
   }
   function shiftCipher(text) {
     text = text.value.toLowerCase();
@@ -37,7 +37,7 @@ console.log("Window loaded!");
     }
     return result;
   }
-  function handleEncryptClick() {
+  function handleEncrypt() {
     console.log("Encrypt-it button clicked");
     let textField = document.getElementById("input-text");
     let results = shiftCipher(textField);
@@ -47,26 +47,26 @@ console.log("Window loaded!");
     console.log("Reset button clicked");
     let textField = document.getElementById("input-text");
     textField.value = "";
+    let textField2 = document.getElementById("result-area");
+    textField2.value = "";
   }
-  function fontSize12() {
-    let textField = document.getElementById("result");
-    if(document.getElementById("font12").checked) {
-      textField.style.fontSize = "12pt";
-    }
-  }
-  function fontSize24() {
-    let textField = document.getElementById("result");
-    if(document.getElementById("font24").checked) {
-      textField.style.fontSize = "24pt";
-    }
-  }
-  function allCaps() {
-    let text = document.getElementById("result");
+  function capital() {
     if(document.getElementById("all-caps").checked) {
-      text.style.textTransform = "uppercase";
+      document.getElementById('result').style.textTransform = "uppercase";
     }
     if(!document.getElementById("all-caps").checked) {
-      text.style.textTransform = "lowercase";
+      document.getElementById('result').style.textTransform = "lowercase";
     }
   }
+  function font12pt() {
+    if(document.getElementById("font12").checked) {
+      document.getElementById('result').style.fontSize = "12pt";
+    }
+  }
+  function font24pt() {
+    if(document.getElementById("font24").checked) {
+      document.getElementById('result').style.fontSize = "24pt";
+    }
+  }
+  
 })();
