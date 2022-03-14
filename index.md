@@ -14,5 +14,7 @@
         <h2>Assignments</h2>
         <p>
             <a href="https://xkaiwen.github.io/xkaiwen/fancifymytext.html">Assignment 4</a>
+        </p>
+        <p>
             <a href="https://xkaiwen.github.io/xkaiwen/encrypt-it.html">Assignment 5</a>
         </p>
