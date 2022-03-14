@@ -13,6 +13,6 @@
         <p>My name is Karen Xue and this is a website that I designed for CSC 196W class.</p>
         <h2>Assignments</h2>
         <p>
-                <a href="https://xkaiwen.github.io/xkaiwen/fancifymytext.html">Assignment 4</a>
+            <a href="https://xkaiwen.github.io/xkaiwen/fancifymytext.html">Assignment 4</a>
+            <a href="https://xkaiwen.github.io/xkaiwen/encrypt-it.html">Assignment 5</a>
         </p>
-        
